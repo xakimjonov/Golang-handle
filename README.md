@@ -15,3 +15,8 @@ https://www.geeksforgeeks.org/data-types-in-go/                  --> Data-types
 https://www.geeksforgeeks.org/go-operators/                      --> Operators
 
 https://www.geeksforgeeks.org/type-casting-or-type-conversion-in-golang/    -->Type-conversion
+
+https://www.callicoder.com/golang-packages/                      --> Packages
+
+https://zetcode.com/golang/function/                             --> Functions
+
