@@ -1,9 +1,13 @@
 # Golang-handle
 
-https://en.wikipedia.org/wiki/Go_(programming_language)
+https://en.wikipedia.org/wiki/Go_(programming_language)          --> about Golang
 
-https://golang.org/doc/install
+https://golang.org/doc/install                                   --> Install
 
-https://yourbasic.org/golang/fmt-printf-reference-cheat-sheet
+https://yourbasic.org/golang/fmt-printf-reference-cheat-sheet    --> Printf
 
-https://www.geeksforgeeks.org/data-types-in-go/
+https://www.geeksforgeeks.org/data-types-in-go/                  --> Data-types
+ 
+https://www.geeksforgeeks.org/go-operators/                      --> Operators
+
+https://www.geeksforgeeks.org/type-casting-or-type-conversion-in-golang/    -->Type-conversion
