@@ -1,10 +1,22 @@
 # Golang-handle
 
-https://en.wikipedia.org/wiki/Go_(programming_language)          --> about Golang
+   The best: https://gobyexample.com/          https://www.w3schools.com/go/index.php
 
+
+
+
+
+
+
+
+
+
+
+https://en.wikipedia.org/wiki/Go_(programming_language)          --> about Golang
+                                                                                                            
 https://golang.org/doc/install                                   --> Install
 
-https://yourbasic.org/golang/fmt-printf-reference-cheat-sheet    --> Printf
+https://yourbasic.org/golang/fmt-printf-reference-cheat-sheet    --> Printf                                
 
 https://www.geeksforgeeks.org/data-types-in-go/                  --> Data-types
  
