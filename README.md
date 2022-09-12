@@ -18,5 +18,6 @@ https://www.geeksforgeeks.org/type-casting-or-type-conversion-in-golang/    -->T
 
 https://www.callicoder.com/golang-packages/                      --> Packages
 
-https://zetcode.com/golang/function/                             --> Functions
+https://zetcode.com/golang/function/
+https://www.golang-book.com/books/intro/7                        --> Functions
 
