@@ -1,16 +1,8 @@
 # Golang-handle
 
-   The best: https://gobyexample.com/          https://www.w3schools.com/go/index.php
-
-
-
-
-
-
-
-
-
-
+   The best: https://gobyexample.com/       
+ 
+   https://www.w3schools.com/go/index.php                        --> Tutorial
 
 https://en.wikipedia.org/wiki/Go_(programming_language)          --> about Golang
                                                                                                             
