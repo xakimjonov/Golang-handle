@@ -30,4 +30,6 @@ https://www.geeksforgeeks.org/switch-statement-in-go/
 https://yourbasic.org/golang/switch-statement/            --> Switch
 
 https://yourbasic.org/golang/defer          --> Defer
+
+https://www.geeksforgeeks.org/pointers-in-golang/ --> Pointer
             
