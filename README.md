@@ -43,5 +43,9 @@ https://www.sohamkamani.com/golang/arrays-vs-slices/            --> Array & Slii
 
 https://gobyexample.com/maps                                     --> Map
 
+https://go.dev/tour/moretypes/24                                 --> Function values
+
+https://go.dev/tour/moretypes/25                                 --> Function closure
+
 
             
