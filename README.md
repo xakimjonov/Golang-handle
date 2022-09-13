@@ -41,4 +41,7 @@ https://www.geeksforgeeks.org/pointers-in-golang/                --> Pointer
 https://golangbot.com/arrays-and-slices/         
 https://www.sohamkamani.com/golang/arrays-vs-slices/            --> Array & Sliice
 
+https://gobyexample.com/maps                                     --> Map
+
+
             
