@@ -47,5 +47,8 @@ https://go.dev/tour/moretypes/24                                 --> Function va
 
 https://go.dev/tour/moretypes/25                                 --> Function closure
 
+https://go.dev/tour/methods/1                                    --> Methods
+
+
 
             
