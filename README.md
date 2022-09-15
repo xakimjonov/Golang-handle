@@ -49,8 +49,8 @@ https://go.dev/tour/moretypes/25                                 --> Function cl
 
 https://go.dev/tour/methods/1                                    --> Methods
 
-https://www.geeksforgeeks.org/interfaces-in-golang/             --> Interface
-
+https://www.geeksforgeeks.org/interfaces-in-golang/            
+https://www.alexedwards.net/blog/interfaces-explained            --> Interface
 
 
 
